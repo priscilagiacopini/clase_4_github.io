@@ -1,0 +1,40 @@
+
+.titulo-importante {
+    font-size: 50px;
+    background-color: red;
+    color: yellow;
+}
+
+.texto {
+    font-size: 18px;
+}
+
+.lunes {
+    width: 10%;
+background-color: red ;
+color: white;
+font-size: 20px;
+
+}
+
+
+.dias {
+    background-color:red ;
+    font-weight: bold;
+    font-size: 20px;
+    }
+
+    .horarios {
+        font-style: italic;
+        background-color: white;
+        font-size: 17,5px;
+    }
+.hora {
+
+    background-color: white;
+        color: red;
+        font-size: 17,5px;
+}
+
+
+/*terminar los estilos*/
